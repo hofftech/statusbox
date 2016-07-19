@@ -1,0 +1,23 @@
+{
+  "name": "statusbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hofftech/statusbox.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hofftech/statusbox/issues"
+  },
+  "homepage": "https://github.com/hofftech/statusbox#readme",
+  "dependencies": {
+    "botkit": "^0.2.2",
+    "dotenv": "^2.0.0"
+  }
+}
